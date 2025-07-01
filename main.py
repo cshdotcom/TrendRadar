@@ -27,7 +27,7 @@ CONFIG = {
     "MESSAGE_BATCH_SIZE": 4000,  # 消息分批大小（字节）
     "BATCH_SEND_INTERVAL": 1,  # 批次发送间隔（秒）
     # 飞书机器人的 webhook URL
-    "FEISHU_WEBHOOK_URL": "",
+    "FEISHU_WEBHOOK_URL": "https://www.feishu.cn/flow/api/trigger-webhook/782e10d4e2c278eb027c8cee41bd6c0c",
     # 钉钉机器人的 webhook URL
     "DINGTALK_WEBHOOK_URL": "",
     # 企业微信机器人的 webhook URL
